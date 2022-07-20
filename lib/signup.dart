@@ -23,7 +23,7 @@ class _SignupState extends State<Signup> {
                 const SizedBox(height: 10,),
                 logoDescriptiveText,
                 const SizedBox(height: 10,),
-                lS('Sing Up'),
+                lS('Sign Up'),
                 const SizedBox(height: 30,),
                 textFieldBoxes('First Name', Icons.perm_identity),
                 const SizedBox(height: 10,),
